@@ -62,9 +62,6 @@ namespace cod2014102905
             var seriemotor1 = "AH-4HK1XYBW-01";
             var placa1 = "AEF-717";
 
-            var asunto1 = "Encomienda 1";
-            var asunto2 = "Encomienda 2";
-
             var nombredestinatario1 = "Farje";
             var nombredestinatario2 = "Guanilo";
 
