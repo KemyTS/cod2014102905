@@ -57,7 +57,7 @@ namespace cod2014102905
             var DNIcliente5 = "1234576";
 
             var lugar1 = "Lima";
-            var lugar2 = "Ica";
+            var lugar2 = "Cuzco";
 
             var seriemotor1 = "AH-4HK1XYBW-01";
             var placa1 = "AEF-717";
@@ -65,10 +65,10 @@ namespace cod2014102905
             var asunto1 = "Encomienda 1";
             var asunto2 = "Encomienda 2";
 
-            var nombredestinatario1 = "Luis";
-            var nombredestinatario2 = "Fernanda";
+            var nombredestinatario1 = "Farje";
+            var nombredestinatario2 = "Guanilo";
 
-            var peso1 = 5;
+            var peso1 = 8;
             var peso2 = 7.3;
 
             var numerocomprobante1 = 1;
